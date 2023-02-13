@@ -1,17 +1,10 @@
-# text-ring
+# About
+inspired by [pinterest idea](https://www.pinterest.jp/pin/640355640805108371/).
 
-```
-gh repo clone nemutas/text-ring
-```
+https://nemutas.github.io/text-ring/
 
-```
-npm install
-```
+<img src='https://user-images.githubusercontent.com/46724121/218460045-c0fe98bf-7618-4bcb-a820-01b7bf421b3e.jpg' width='800' />
 
-# using
+view by smartphone.
 
-- [Vite](https://vitejs.dev/)
-- [TypeScript](https://www.typescriptlang.org/)
-- [Sass](https://sass-lang.com/)
-- [vite-plugin-glsl](https://github.com/UstymUkhman/vite-plugin-glsl)
-- [WebGL GLSL Editor](https://marketplace.visualstudio.com/items?itemName=raczzalan.webgl-glsl-editor) (v1.3.0 -> If the extension is set to glsl, errors originating from threejs built-in variables will not occur.)
+<img src='https://user-images.githubusercontent.com/46724121/218460294-22e7419b-50ba-426c-a2be-2f1375b03e16.png' width='200' />
