@@ -20,6 +20,8 @@ export class TextScene {
     this.scene = new THREE.Scene()
     this.scene.rotation.set(0, Math.PI / 10, Math.PI / 8)
 
+    this.resize()
+
     this.createLights()
     this.createText()
     this.createScrollAnimation()

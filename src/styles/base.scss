@@ -4,36 +4,37 @@
 @import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300;400;800&display=swap');
 
 :root {
-	--font-poppins: 'Poppins', sans-serif;
-	--font-weight-regular: 300;
-	--font-weight-mediam: 400;
-	--font-weight-exbold: 800;
+  --font-poppins: 'Poppins', sans-serif;
+  --font-weight-regular: 300;
+  --font-weight-mediam: 400;
+  --font-weight-exbold: 800;
 }
 
 html {
-	width: 100%;
-	height: 100%;
-	font-size: calc(1000vw / 750);
-	@include pc {
-		font-size: calc(1000vw / 1500);
-	}
-	font-family: var(--font-poppins);
-	font-weight: var(--font-weight-regular);
+  width: 100%;
+  height: 100%;
+  font-size: calc(1000vw / 750);
+  @include pc {
+    font-size: calc(1000vw / 1500);
+  }
+  font-family: var(--font-poppins);
+  font-weight: var(--font-weight-regular);
+  background-color: #1e1e1e;
 }
 
 body {
-	position: relative;
-	width: 100%;
-	height: 100%;
+  position: relative;
+  width: 100%;
+  height: 100%;
 }
 
 a {
-	color: inherit;
-	text-decoration: none;
+  color: inherit;
+  text-decoration: none;
 }
 
 ul {
-	list-style: none;
+  list-style: none;
 }
 
 h1,
@@ -42,6 +43,6 @@ h3,
 h4,
 h5,
 h6 {
-	font-size: inherit;
-	font-weight: inherit;
+  font-size: inherit;
+  font-weight: inherit;
 }

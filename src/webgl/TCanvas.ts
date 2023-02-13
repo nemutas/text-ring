@@ -26,7 +26,6 @@ export class TCanvas {
 
   private init() {
     gl.setup(this.parentNode.querySelector('.three-container')!)
-    gl.scene.background = new THREE.Color('#1e1e1e')
     gl.camera.position.set(0, 3, 7)
     gl.camera.lookAt(0, 0, 0)
 
