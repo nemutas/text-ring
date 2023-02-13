@@ -8,3 +8,7 @@ https://nemutas.github.io/text-ring/
 view by smartphone.
 
 <img src='https://user-images.githubusercontent.com/46724121/218460294-22e7419b-50ba-426c-a2be-2f1375b03e16.png' width='200' />
+
+# References
+- [Refraction, dispersion, and other shader light effects](https://blog.maximeheckel.com/posts/refraction-dispersion-and-other-shader-light-effects/)
+- [Impossible Mobius animation with #threejs](https://www.youtube.com/watch?v=Y5EiKACFemI)
